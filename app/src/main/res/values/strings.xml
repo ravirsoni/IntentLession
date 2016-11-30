@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentLession</string>
+    <string name="tvFirstpageTitle">First Page !!</string>
+    <string name="btFirstpage">Click me to open Second Page :)</string>
+    <string name="SecondpageTitle">SecondPage !!</string>
+    <string name="btSecondPage">Click me, Go First Page !!!</string>
+</resources>
