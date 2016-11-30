@@ -18,4 +18,10 @@ public class SecondActivity extends AppCompatActivity {
         Intent i = new Intent(this, MainActivity.class);
         startActivity(i);
     }
+
+    public void openThirstPage (View view){
+
+        Intent i = new Intent(this, ThirdActivity.class);
+        startActivity(i);
+    }
 }
